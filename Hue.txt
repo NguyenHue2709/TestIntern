@@ -1,1 +1,5 @@
 Ngọc Huế test conflict
+<<<<<<< HEAD
+=======
+
+>>>>>>> NgocHue
